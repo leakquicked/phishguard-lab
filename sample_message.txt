@@ -1,0 +1,4 @@
+Subject: Urgent account notice
+
+Your account will be suspended. Verify your payment details immediately:
+http://secure-paypal.example-login.test/verify
