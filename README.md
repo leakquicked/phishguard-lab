@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/phishguard-lab/actions/workflows/python-checks.yml/badge.svg)
+
 # PhishGuard Lab
 
 Offline phishing-triage helper for security education. It inspects message text and URLs using transparent heuristics; it **never opens URLs, resolves domains, or contacts remote hosts**.
